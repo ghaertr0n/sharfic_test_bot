@@ -1,0 +1,53 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 36456602,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 432807262,
+          "is_bot": false,
+          "first_name": "n0mad",
+          "username": "gimmedanger"
+        },
+        "chat": {
+          "id": 432807262,
+          "first_name": "n0mad",
+          "username": "gimmedanger",
+          "type": "private"
+        },
+        "date": 1522369105,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 36456603,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 432807262,
+          "is_bot": false,
+          "first_name": "n0mad",
+          "username": "gimmedanger",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 432807262,
+          "first_name": "n0mad",
+          "username": "gimmedanger",
+          "type": "private"
+        },
+        "date": 1522391618,
+        "text": "привет"
+      }
+    }
+  ]
+}
