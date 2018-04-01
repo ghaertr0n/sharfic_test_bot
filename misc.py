@@ -1,0 +1,3 @@
+token = '583801590:AAEu7wgWEWr6XJ7NBCu369_9l6_W9QSoGuA'
+appid = '3834e9a6a69b1d7e2d845171986a7f6a'
+# dialog_token = 'ce698225537d48c4b04fa2864d7a4dc5'
